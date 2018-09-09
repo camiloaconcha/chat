@@ -1,0 +1,11 @@
+{
+  "name": "chatsocketio",
+  "version": "1.0.0",
+  "description": "Simple Chat with NodeJS with Socket IO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Camilo Concha",
+  "license": "ISC"
+}
